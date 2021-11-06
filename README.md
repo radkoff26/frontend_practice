@@ -1,0 +1,1 @@
+In order to start project use "gulp start" in a root directory
